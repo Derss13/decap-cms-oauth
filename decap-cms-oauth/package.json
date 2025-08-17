@@ -1,8 +1,0 @@
-{
-  "name": "decap-cms-oauth-proxy",
-  "version": "1.0.0",
-  "description": "Proxy OAuth para DecapCMS + GitHub Pages",
-  "dependencies": {
-    "axios": "^1.6.8"
-  }
-}
